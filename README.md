@@ -1,1 +1,6 @@
+
 # demo-mybatis-generator
+
+
+mydemo
+
