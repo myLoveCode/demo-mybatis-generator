@@ -1,1 +1,1 @@
-# mybatis-generator
+# demo-mybatis-generator
